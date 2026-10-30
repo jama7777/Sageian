@@ -1,0 +1,6 @@
+{
+  "name": "Remix Desk Racer",
+  "description": "Miniature desk coaster time-trial racing game with 22+ cars (F1, Lamborghini, Bugatti, Tata) and 52 tracks in Three.js",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
